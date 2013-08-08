@@ -1,0 +1,10 @@
+<system>
+host=foo.com
+ConnectionType=ssh
+UserName=user
+Password=pass
+<cmd>
+	cmd=ls -l
+	outfile=lsout.txt
+</cmd>
+</system>

@@ -1,0 +1,22 @@
+ACCORNS: Aggregate Configuration Control Over Remote Networked Systems
+
+
+ACCORNS is a work-in-progress, and is intended to provide functionality as follows:
+- provide a means of tracking configuration changes across multiple device types
+- allow for alerting upon differences in configurations
+- provide a means of affecting identical changes across identical device types
+- be extensible (i.e. allow for a modular way to extend the supported device types)
+- be scalable (i.e. handle large numbers of devices, possibly in the hundreds)
+- be somewhat device-agnostic (i.e. execute commands on virtually anything with a standard remote CLI)
+
+While my initial focus will be on Linux/Cisco IOS/Cisco NX-OS, I hope to eventually gain
+enough community support to handle many other devices as well.
+
+
+***** LICENSING NOTICE *****
+
+All code specifically relating to the ACCORNS project is currently published under
+the GNU General Public License, Version 2. (2010-08-14)
+
+***** LICENSING NOTICE *****
+

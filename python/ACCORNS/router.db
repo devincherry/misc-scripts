@@ -1,0 +1,4 @@
+# Nexus switches 
+10.0.0.1:cisco-nx:up
+10.0.0.2:cisco-nx:up
+10.0.0.3:cisco-nx:up

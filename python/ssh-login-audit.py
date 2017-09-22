@@ -1,11 +1,11 @@
-#!/bin/env python2.6
+#!/usr/bin/env python
 #
 # Description:
 # This utility does a simple system audit on the local host, printing 
 # relevant information about system security. 
 #
-# Author: Devin Cherry <youshoulduseunix@gmail.com>
-##
+# Author: Devin Cherry <devincherry@gmail.com>
+#######################################################################
 import re, os, sys, commands, tempfile
 
 

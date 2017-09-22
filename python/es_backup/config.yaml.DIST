@@ -1,0 +1,13 @@
+---
+username: 'EXAMPLE_IAM_KEY_ID'
+password: 'EXAMPLE_IAM_KEY_SECRET'
+ca_cert_path: '/etc/ssl/certs/ca-bundle.crt'
+clusters:
+  dev:
+    'url': 'search-dev-xxxxxxxxxxxxxx.us-west-2.es.amazonaws.com'
+    'region': 'us-west-2'
+    's3_role_arn': 'arn:aws:iam::xxxxxxxxxxxxxxx:role/es-backup-users'
+  staging:
+    'url': 'search-staging-xxxxxxxxxxxxxxxxx.us-west-2.es.amazonaws.com'
+    'region': 'us-west-2'
+    's3_role_arn': 'arn:aws:iam::xxxxxxxxxxxxxxx:role/es-backup-users'

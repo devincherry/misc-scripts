@@ -1,0 +1,9 @@
+# ignore compiled python files
+*.py[co]
+
+# ignore temporary state files
+*.state
+
+# ignore virtualenv
+ENV/
+venv/

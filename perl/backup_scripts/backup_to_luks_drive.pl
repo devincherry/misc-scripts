@@ -8,7 +8,7 @@
 # mount it locally, then begin copying files to the volume. Once copying 
 # is complete, it will unmount & re-lock the volume.
 #
-# @author: Devin Cherry <youshoulduseunix@gmail.com>
+# @author: Devin Cherry <devincherry@gmail.com>
 #
 # @todo 
 # Error-handling could always be improved...

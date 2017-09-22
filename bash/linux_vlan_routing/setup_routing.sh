@@ -19,7 +19,7 @@
 # followed by routing policies which tell the vlan interface what 
 # to do with traffic from networks that aren't locally connected.
 #
-# @author Devin Cherry <youshoulduseunix@gmail.com>
+# @author Devin Cherry <devincherry@gmail.com>
 ###############################################################
 
 

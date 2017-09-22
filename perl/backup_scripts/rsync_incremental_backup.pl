@@ -40,7 +40,7 @@
 #                    the create_snapshot.pl script to create a 
 #                    snapshot of changes back to a particular date.
 # 
-# @author Devin Cherry <youshoulduseunix@gmail.com>
+# @author Devin Cherry <devincherry@gmail.com>
 #
 # @todo	better error handling; better config options; ...
 ################################################################################
